@@ -1,0 +1,3 @@
+[submodule "physics-talk"]
+	path = physics-talk
+	url = git://github.com/pavel-klimiankou/physics-talk.git
